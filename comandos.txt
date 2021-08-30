@@ -1,0 +1,12 @@
+Microsoft Windows [Versión 10.0.19041.1165]
+(c) Microsoft Corporation. Todos los derechos reservados.
+
+C:\Users\HP>cd
+C:\Users\HP
+
+C:\Users\HP>cd C:\Users\HP\Documents\organico
+
+C:\Users\HP\Documents\organico>git init
+Initialized empty Git repository in C:/Users/HP/Documents/organico/.git/
+
+C:\Users\HP\Documents\organico>git remote add origin https://github.com/psicohernando/ecoterra
